@@ -27,7 +27,11 @@ When the number of fingers is five, the style of the background will change to f
 
 ![avatar](/Images/1.png)
 
+
+
 ![avatar](/Images/2.jpg)
+
+
 
 ![avatar](/Images/3.jpg)
 
